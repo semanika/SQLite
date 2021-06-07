@@ -11,9 +11,9 @@ VirtualTrees.ClipBoard.hpp
 VirtualTrees.ClipBoard.pas
 VirtualTrees.Export.hpp
 VirtualTrees.Export.pas
-SQLite/sqlite_semisotov/VirtualTrees.HeaderPopup.hpp
-SQLite/sqlite_semisotov/VirtualTrees.HeaderPopup.pas
-SQLiteSQLite/sqlite_semisotov/VirtualTrees.hpp
+/sqlite_semisotov/VirtualTrees.HeaderPopup.hpp
+/sqlite_semisotov/VirtualTrees.HeaderPopup.pas
+/sqlite_semisotov/VirtualTrees.hpp
 SQLite/sqlite_semisotov/VirtualTrees.pas
 SQLite/sqlite_semisotov/VirtualTrees.StyleHooks.hpp
 SQLite/sqlite_semisotov/VirtualTrees.StyleHooks.pas
